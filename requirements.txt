@@ -1,0 +1,10 @@
+Flask==2.2.2
+opencv-python==4.7.0.68
+opencv-python-headless==4.7.0.68
+scikit-image==0.19.3
+numpy==1.23.3
+pandas==1.5.1
+tensorflow==2.10.0
+keras==2.10.0
+mtcnn==0.1.0
+scipy==1.9.3
