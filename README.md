@@ -56,7 +56,7 @@ This project requires several Python libraries. You can install them using the p
 
 ## On the web interface:
 
--Upload a CCTV video in the input/ folder.
--Upload the missing person's image in the input_1/ folder.
--The system will process the video, detect faces, and match them to the image of the missing person.
--The results (matching frames) will be saved in the output/ folder.
+- Upload a CCTV video in the input/ folder.
+- Upload the missing person's image in the input_1/ folder.
+- The system will process the video, detect faces, and match them to the image of the missing person.
+- The results (matching frames) will be saved in the output/ folder.
